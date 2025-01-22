@@ -13,7 +13,7 @@ def main():
     dt = 0
 
     updatable = pygame.sprite.Group()
-    drawable = 
+    drawable = Noneone
 
 
 
